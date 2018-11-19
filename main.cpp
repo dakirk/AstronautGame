@@ -1,6 +1,3 @@
-//THIS GAME IS NOT FINISHED
-//TODO: Step 5 (implement handle_new_command in Model, and finish implementing do_new_command in Game_Command.cpp)
-
 #include <iostream>
 #include <string>
 #include <cstdlib>
